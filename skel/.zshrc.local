@@ -79,8 +79,9 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
-# Hai plugin dưới đây là gói riêng của Arch (extra), không nằm trong $ZSH/plugins
-# nên phải source tay. zsh-syntax-highlighting luôn source sau cùng.
+# zsh-autosuggestions and zsh-syntax-highlighting are separate Arch packages
+# (extra), so they are not in $ZSH/plugins and must be sourced manually.
+# zsh-syntax-highlighting always has to be sourced last.
 if [[ -r /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh ]]; then
     source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 fi
