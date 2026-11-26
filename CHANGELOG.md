@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/bakeryos-project/bakeryos-shell-config/compare/v1.1.0...v1.2.0) (2026-11-26)
+
+
+### Features
+
+* add fastfetch config ([02262ce](https://github.com/bakeryos-project/bakeryos-shell-config/commit/02262ce5f795e193b02d27f6f25c14e5573d53d5))
+
 ## [1.1.0](https://github.com/bakeryos-project/bakeryos-shell-config/compare/v1.0.0...v1.1.0) (2026-11-18)
 
 
