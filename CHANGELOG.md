@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/bakeryos-project/bakeryos-shell-config/compare/v1.2.0...v1.3.0) (2026-11-26)
+
+
+### Features
+
+* add zsh config ([a3284ac](https://github.com/bakeryos-project/bakeryos-shell-config/commit/a3284ac33716a3d5f88e09dbd8afb63b21a17ede))
+
 ## [1.2.0](https://github.com/bakeryos-project/bakeryos-shell-config/compare/v1.1.0...v1.2.0) (2026-11-26)
 
 
