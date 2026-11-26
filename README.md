@@ -1,5 +1,5 @@
 # BakeryOS Shell Config
 
-## 📜 License
+## License
 
-This project is licensed under the GPL-3.0
+This project is licensed under GPL-3.0-or-later.
