@@ -117,3 +117,7 @@ fi
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+if command -v fastfetch >/dev/null 2>&1 && [[ -r /usr/share/fastfetch/bakeryos.jsonc ]]; then
+    fastfetch --config /usr/share/fastfetch/bakeryos.jsonc
+fi
